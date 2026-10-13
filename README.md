@@ -16,7 +16,7 @@
 
 ## 📚 Formações
 
-- DIO Campus Expert – Turma 14.
+- DIO Campus Expert – Turma 17.
 - Formação Lógica de Programação – DIO;
 - Desenvolvimento Web Full Stack;
 - Inteligência Artificial com Copilot.
