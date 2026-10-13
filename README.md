@@ -22,7 +22,7 @@
 - Inteligência Artificial com Copilot.
 ---
 
-##🚀 **Sobre mim**
+## 🚀 Sobre mim
 
 🎓 Participante do programa DIO Campus Expert – Turma 17.
 
@@ -44,7 +44,7 @@
 
 ---
 
-##🛠️ **Tecnologias e ferramentas**
+## 🛠️ Tecnologias e ferramentas
 
 💻 Desenvolvimento Web
 
@@ -80,7 +80,7 @@ Exploração de ferramentas de IA para produtividade e desenvolvimento
 
 ---
 
-##🎯 **Objetivos profissionais**
+## 🎯 Objetivos profissionais
 
 🚀 Evoluir como desenvolvedor de software.
 
